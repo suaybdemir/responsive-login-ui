@@ -16,10 +16,3 @@ Bu proje, modern ve responsive bir "Sign In" (giriş) formu sunar. React ile gel
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
-
-### 1. Depoyu klonlayın
-
-```bash
-git clone https://github.com/kullaniciadi/signin-form.git
-cd signin-form
